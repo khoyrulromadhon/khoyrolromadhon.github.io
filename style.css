@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(230, 199, 122);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+#about {
+  background-color: rgb(230, 199, 122);
+}
+
+#contact {
+  background-color: rgb(230, 199, 122);
+}
